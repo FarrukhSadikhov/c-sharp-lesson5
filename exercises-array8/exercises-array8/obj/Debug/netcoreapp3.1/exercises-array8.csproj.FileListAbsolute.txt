@@ -1,0 +1,13 @@
+C:\Users\Farrukh\source\repos\exercises-array8\exercises-array8\bin\Debug\netcoreapp3.1\exercises-array8.exe
+C:\Users\Farrukh\source\repos\exercises-array8\exercises-array8\bin\Debug\netcoreapp3.1\exercises-array8.deps.json
+C:\Users\Farrukh\source\repos\exercises-array8\exercises-array8\bin\Debug\netcoreapp3.1\exercises-array8.runtimeconfig.json
+C:\Users\Farrukh\source\repos\exercises-array8\exercises-array8\bin\Debug\netcoreapp3.1\exercises-array8.runtimeconfig.dev.json
+C:\Users\Farrukh\source\repos\exercises-array8\exercises-array8\bin\Debug\netcoreapp3.1\exercises-array8.dll
+C:\Users\Farrukh\source\repos\exercises-array8\exercises-array8\bin\Debug\netcoreapp3.1\exercises-array8.pdb
+C:\Users\Farrukh\source\repos\exercises-array8\exercises-array8\obj\Debug\netcoreapp3.1\exercises-array8.csprojAssemblyReference.cache
+C:\Users\Farrukh\source\repos\exercises-array8\exercises-array8\obj\Debug\netcoreapp3.1\exercises-array8.AssemblyInfoInputs.cache
+C:\Users\Farrukh\source\repos\exercises-array8\exercises-array8\obj\Debug\netcoreapp3.1\exercises-array8.AssemblyInfo.cs
+C:\Users\Farrukh\source\repos\exercises-array8\exercises-array8\obj\Debug\netcoreapp3.1\exercises-array8.csproj.CoreCompileInputs.cache
+C:\Users\Farrukh\source\repos\exercises-array8\exercises-array8\obj\Debug\netcoreapp3.1\exercises-array8.dll
+C:\Users\Farrukh\source\repos\exercises-array8\exercises-array8\obj\Debug\netcoreapp3.1\exercises-array8.pdb
+C:\Users\Farrukh\source\repos\exercises-array8\exercises-array8\obj\Debug\netcoreapp3.1\exercises-array8.genruntimeconfig.cache

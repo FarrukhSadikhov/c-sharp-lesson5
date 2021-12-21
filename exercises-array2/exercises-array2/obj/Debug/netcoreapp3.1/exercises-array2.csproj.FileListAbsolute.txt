@@ -1,0 +1,12 @@
+C:\Users\Farrukh\source\repos\exercises-array2\exercises-array2\bin\Debug\netcoreapp3.1\exercises-array2.exe
+C:\Users\Farrukh\source\repos\exercises-array2\exercises-array2\bin\Debug\netcoreapp3.1\exercises-array2.deps.json
+C:\Users\Farrukh\source\repos\exercises-array2\exercises-array2\bin\Debug\netcoreapp3.1\exercises-array2.runtimeconfig.json
+C:\Users\Farrukh\source\repos\exercises-array2\exercises-array2\bin\Debug\netcoreapp3.1\exercises-array2.runtimeconfig.dev.json
+C:\Users\Farrukh\source\repos\exercises-array2\exercises-array2\bin\Debug\netcoreapp3.1\exercises-array2.dll
+C:\Users\Farrukh\source\repos\exercises-array2\exercises-array2\bin\Debug\netcoreapp3.1\exercises-array2.pdb
+C:\Users\Farrukh\source\repos\exercises-array2\exercises-array2\obj\Debug\netcoreapp3.1\exercises-array2.AssemblyInfoInputs.cache
+C:\Users\Farrukh\source\repos\exercises-array2\exercises-array2\obj\Debug\netcoreapp3.1\exercises-array2.AssemblyInfo.cs
+C:\Users\Farrukh\source\repos\exercises-array2\exercises-array2\obj\Debug\netcoreapp3.1\exercises-array2.csproj.CoreCompileInputs.cache
+C:\Users\Farrukh\source\repos\exercises-array2\exercises-array2\obj\Debug\netcoreapp3.1\exercises-array2.dll
+C:\Users\Farrukh\source\repos\exercises-array2\exercises-array2\obj\Debug\netcoreapp3.1\exercises-array2.pdb
+C:\Users\Farrukh\source\repos\exercises-array2\exercises-array2\obj\Debug\netcoreapp3.1\exercises-array2.genruntimeconfig.cache
