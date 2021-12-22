@@ -31,7 +31,7 @@ namespace exercises_array3
             }
             catch
             {
-                Console.Write("Вы ввели некорректные данные :");
+                Console.Write("Вы ввели некорректные данные!");
             }
             Console.ReadKey(); 
             }

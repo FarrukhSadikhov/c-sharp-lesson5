@@ -1,0 +1,13 @@
+C:\Users\Farrukh\source\repos\c-sharp-lesson5\exercises-array11\exercises-array11\bin\Debug\netcoreapp3.1\exercises-array11.exe
+C:\Users\Farrukh\source\repos\c-sharp-lesson5\exercises-array11\exercises-array11\bin\Debug\netcoreapp3.1\exercises-array11.deps.json
+C:\Users\Farrukh\source\repos\c-sharp-lesson5\exercises-array11\exercises-array11\bin\Debug\netcoreapp3.1\exercises-array11.runtimeconfig.json
+C:\Users\Farrukh\source\repos\c-sharp-lesson5\exercises-array11\exercises-array11\bin\Debug\netcoreapp3.1\exercises-array11.runtimeconfig.dev.json
+C:\Users\Farrukh\source\repos\c-sharp-lesson5\exercises-array11\exercises-array11\bin\Debug\netcoreapp3.1\exercises-array11.dll
+C:\Users\Farrukh\source\repos\c-sharp-lesson5\exercises-array11\exercises-array11\bin\Debug\netcoreapp3.1\exercises-array11.pdb
+C:\Users\Farrukh\source\repos\c-sharp-lesson5\exercises-array11\exercises-array11\obj\Debug\netcoreapp3.1\exercises-array11.csprojAssemblyReference.cache
+C:\Users\Farrukh\source\repos\c-sharp-lesson5\exercises-array11\exercises-array11\obj\Debug\netcoreapp3.1\exercises-array11.AssemblyInfoInputs.cache
+C:\Users\Farrukh\source\repos\c-sharp-lesson5\exercises-array11\exercises-array11\obj\Debug\netcoreapp3.1\exercises-array11.AssemblyInfo.cs
+C:\Users\Farrukh\source\repos\c-sharp-lesson5\exercises-array11\exercises-array11\obj\Debug\netcoreapp3.1\exercises-array11.csproj.CoreCompileInputs.cache
+C:\Users\Farrukh\source\repos\c-sharp-lesson5\exercises-array11\exercises-array11\obj\Debug\netcoreapp3.1\exercises-array11.dll
+C:\Users\Farrukh\source\repos\c-sharp-lesson5\exercises-array11\exercises-array11\obj\Debug\netcoreapp3.1\exercises-array11.pdb
+C:\Users\Farrukh\source\repos\c-sharp-lesson5\exercises-array11\exercises-array11\obj\Debug\netcoreapp3.1\exercises-array11.genruntimeconfig.cache

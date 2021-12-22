@@ -4,52 +4,78 @@ namespace exercises_array9
 {
     class Program
     {
+
         static void Main(string[] args)
         {
             // 9) Отсортировать массив(пузырьком (Bubble) и почитать методы:  выбором(Select), вставками(Insert)) и попробовать отсортировать.
-
-
-      /*      {
-                Console.WriteLine("Ведите количество чисел для сортировки.");
-                int N = Convert.ToInt32(Console.ReadLine());
-                Console.WriteLine("Введите числа для сортировки:");
-                int[] mas = new int[N];
-                for (int i = 0; i < mas.Length; i++)
+            try
+            {
+                int nums;
+                Console.Write("Введите число массива :");
+                nums = Convert.ToInt32(Console.ReadLine());
+                int[] array = new int[nums];
+                for (int i = 0; i < nums; i++)
                 {
-                    mas[i] = Convert.ToInt32(Console.ReadLine());
+                    Console.Write("Введите элементы :");
+                    array[i] = Convert.ToInt32(Console.ReadLine());
                 }
-                ViborSort(mas);
-                Console.WriteLine("Отсортированный массив:");
-                for (int i = 0; i < mas.Length; i++)
+                int temp;
+                for (int i = 0; i < array.Length - 1; i++)
                 {
-                    Console.WriteLine(mas[i]);
+                    for (int j = i + 1; j < array.Length; j++)
+                    {
+                        if (array[i] > array[j])
+                        {
+                            temp = array[i];
+                            array[i] = array[j];
+                            array[j] = temp;
+                        }
+                    }
                 }
-                Console.ReadLine();
-            }*/
+                Console.WriteLine("Вывод отсортированного массива");
+                for (int i = 0; i < array.Length; i++)
+                {
+                    Console.WriteLine(array[i]);
+                }
+            }
+            catch
+            {
+                Console.WriteLine("Ошибка!!!Вы ввели некорректные данные");
+            }
+            Console.ReadKey();
+           
 
 
-            /* int[] nums = { 54, 7, -41, 2, 4, 2, 89, 33, -5, 12 };
 
-             // сортировка
-             int temp;
-             for (int i = 0; i < nums.Length - 1; i++)
-             {
-                 for (int j = i + 1; j < nums.Length; j++)
-                 {
-                     if (nums[i] > nums[j])
-                     {
-                         temp = nums[i];
-                         nums[i] = nums[j];
-                         nums[j] = temp;
-                     }
-                 }
-             }
-             // вывод
-             Console.WriteLine("Вывод отсортированного массива");
-             for (int i = 0; i < nums.Length; i++)
-             {
-                 Console.WriteLine(nums[i]);
-             }*/
+
+
+
+
+
+
+            /*
+                           int[] nums = { 54, 7, -41, 2, 4, 2, 89, 33, -5, 12 };
+
+
+                           int temp;
+                           for (int i = 0; i < nums.Length - 1; i++)
+                           {
+                               for (int j = i + 1; j < nums.Length; j++)
+                               {
+                                   if (nums[i] > nums[j])
+                                   {
+                                       temp = nums[i];
+                                       nums[i] = nums[j];
+                                       nums[j] = temp;
+                                   }
+                               }
+                           }
+                           Console.WriteLine("Вывод отсортированного массива");
+                           for (int i = 0; i < nums.Length; i++)
+                           {
+                               Console.WriteLine(nums[i]);
+                           }*/
+
         }
     }
 }

@@ -3,8 +3,11 @@
 namespace exercises_array4
 {
     class Program
-    {
+    { 
+
+
         static void Main(string[] args)
+
         {
             //4) Найти индекс максимального элемента массива.
             try
@@ -35,33 +38,5 @@ namespace exercises_array4
             }
             Console.ReadKey();
         }
-
-
-
-
-
-
-        /*try
-        {
-            int[] array = { 5, 8, 4, 7, 8, 9 };
-
-            int max = array[0];
-            int index = 0;
-
-            for (int i = 1; i < array.Length; i++)
-
-                if (max < array[i])
-                {
-                    index = i;
-                }
-            Console.WriteLine($"Индекс минимального элемента массива :{index}");
-        }
-        catch
-        {
-            Console.Write("Вы ввели некорректные данные :");
-        }
-
-        Console.ReadKey();
-    }*/
     }
 }

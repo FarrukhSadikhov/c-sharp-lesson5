@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Farrukh\\source\\repos\\exercises-array1\\exercises-array1\\exercises-array1.csproj",
+      "projectUniqueName": "C:\\Users\\Farrukh\\source\\repos\\c-sharp-lesson5\\exercises-array1\\exercises-array1\\exercises-array1.csproj",
       "projectName": "exercises-array1",
-      "projectPath": "C:\\Users\\Farrukh\\source\\repos\\exercises-array1\\exercises-array1\\exercises-array1.csproj",
+      "projectPath": "C:\\Users\\Farrukh\\source\\repos\\c-sharp-lesson5\\exercises-array1\\exercises-array1\\exercises-array1.csproj",
       "packagesPath": "C:\\Users\\Farrukh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Farrukh\\source\\repos\\exercises-array1\\exercises-array1\\obj\\",
+      "outputPath": "C:\\Users\\Farrukh\\source\\repos\\c-sharp-lesson5\\exercises-array1\\exercises-array1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Farrukh\\AppData\\Roaming\\NuGet\\NuGet.Config",

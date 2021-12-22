@@ -30,7 +30,7 @@ namespace exercises_array2
             }
             catch
             {
-                Console.Write("Вы ввели некорректные данные : ");
+                Console.Write("Вы ввели некорректные данные!");
             }
             Console.ReadKey();
         }

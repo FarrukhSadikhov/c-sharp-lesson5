@@ -11,3 +11,16 @@ C:\Users\Farrukh\source\repos\exercises-array1\exercises-array1\obj\Debug\netcor
 C:\Users\Farrukh\source\repos\exercises-array1\exercises-array1\obj\Debug\netcoreapp3.1\exercises-array1.dll
 C:\Users\Farrukh\source\repos\exercises-array1\exercises-array1\obj\Debug\netcoreapp3.1\exercises-array1.pdb
 C:\Users\Farrukh\source\repos\exercises-array1\exercises-array1\obj\Debug\netcoreapp3.1\exercises-array1.genruntimeconfig.cache
+C:\Users\Farrukh\source\repos\c-sharp-lesson5\exercises-array1\exercises-array1\bin\Debug\netcoreapp3.1\exercises-array1.exe
+C:\Users\Farrukh\source\repos\c-sharp-lesson5\exercises-array1\exercises-array1\bin\Debug\netcoreapp3.1\exercises-array1.deps.json
+C:\Users\Farrukh\source\repos\c-sharp-lesson5\exercises-array1\exercises-array1\bin\Debug\netcoreapp3.1\exercises-array1.runtimeconfig.json
+C:\Users\Farrukh\source\repos\c-sharp-lesson5\exercises-array1\exercises-array1\bin\Debug\netcoreapp3.1\exercises-array1.runtimeconfig.dev.json
+C:\Users\Farrukh\source\repos\c-sharp-lesson5\exercises-array1\exercises-array1\bin\Debug\netcoreapp3.1\exercises-array1.dll
+C:\Users\Farrukh\source\repos\c-sharp-lesson5\exercises-array1\exercises-array1\bin\Debug\netcoreapp3.1\exercises-array1.pdb
+C:\Users\Farrukh\source\repos\c-sharp-lesson5\exercises-array1\exercises-array1\obj\Debug\netcoreapp3.1\exercises-array1.csprojAssemblyReference.cache
+C:\Users\Farrukh\source\repos\c-sharp-lesson5\exercises-array1\exercises-array1\obj\Debug\netcoreapp3.1\exercises-array1.AssemblyInfoInputs.cache
+C:\Users\Farrukh\source\repos\c-sharp-lesson5\exercises-array1\exercises-array1\obj\Debug\netcoreapp3.1\exercises-array1.AssemblyInfo.cs
+C:\Users\Farrukh\source\repos\c-sharp-lesson5\exercises-array1\exercises-array1\obj\Debug\netcoreapp3.1\exercises-array1.csproj.CoreCompileInputs.cache
+C:\Users\Farrukh\source\repos\c-sharp-lesson5\exercises-array1\exercises-array1\obj\Debug\netcoreapp3.1\exercises-array1.dll
+C:\Users\Farrukh\source\repos\c-sharp-lesson5\exercises-array1\exercises-array1\obj\Debug\netcoreapp3.1\exercises-array1.pdb
+C:\Users\Farrukh\source\repos\c-sharp-lesson5\exercises-array1\exercises-array1\obj\Debug\netcoreapp3.1\exercises-array1.genruntimeconfig.cache
